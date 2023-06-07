@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parte2 - Atividade 1 e 2</string>
+    <string name="light_sensor">Light Sensor</string>
+    <string name="light_intensity">Light Intensity</string>
+    <string name="temperature_sensor">Ambient Temperature Sensor</string>
+    <string name="ambient_temperature">Ambient Temperature</string>
+</resources>

@@ -1,0 +1,21 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "My First App"
+include ':Parte1-Atividade1'
+include ':mylibrary'
+include ':Parte1-Atividade2'
+include ':Parte1-Atividade3'
+include ':Parte2-Atividade1e2'
+include ':Parte2-Atividade3'

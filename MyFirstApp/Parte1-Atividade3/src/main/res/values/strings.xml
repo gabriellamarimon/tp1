@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atividade 3</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="title_activity_secondary">Atividade 3</string>
+    <string name="phone_moved">Phone has been moved</string>
+</resources>
